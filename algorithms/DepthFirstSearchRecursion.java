@@ -1,4 +1,6 @@
+package algorithms;
 
+import graph.Vertex;
 public class DepthFirstSearchRecursion {
 
     public void dfs(Vertex root){

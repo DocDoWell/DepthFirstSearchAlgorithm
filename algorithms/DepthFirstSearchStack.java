@@ -1,5 +1,8 @@
+package algorithms;
+
 import java.util.ArrayDeque;
 import java.util.Deque;
+import graph.Vertex;
 
 public class DepthFirstSearchStack {
 

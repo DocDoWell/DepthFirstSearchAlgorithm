@@ -1,4 +1,8 @@
-package main
+package main;
+
+import graph.Vertex;
+import algorithms.DepthFirstSearchRecursion;
+import algorithms.DepthFirstSearchStack;
 public class App {
 
     public static void main(String[] args){
